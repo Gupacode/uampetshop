@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: rgb(163, 163, 163);        
+    min-height: 100vh;
+}
+
+.preenchimento {
+    background-color: purple;
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+}
