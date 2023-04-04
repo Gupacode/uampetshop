@@ -9,7 +9,7 @@ body {
 }
 
 .background-img {
-    background-image: linear-gradient(180deg, rgb(255, 255, 255), rgb(255, 255, 234));
+    background-image: linear-gradient(180deg, rgb(255, 255, 255), rgb(255, 255, 214));
 }
 
 .img-wrap {
@@ -85,11 +85,3 @@ body {
         width: 100%;
     }
 }
-    
-/**
-.px-3{
-    background-image: url(https://newevolutiondesigns.com/images/freebies/4k-dog-wallpaper-1.jpg);
-    background-size: cover;
-    min-height: 100vh;
-}
-**/
